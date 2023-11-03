@@ -37,3 +37,4 @@ const start = async (req,res)=>{
     }
 }
 start()
+// on deployment npm start
